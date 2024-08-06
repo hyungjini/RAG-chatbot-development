@@ -109,6 +109,7 @@ Evaluate the chatbot's performance using RAGAS.
     
 ## 📂 Project Structure
 
+```plaintext
 rag-chatbot-development/
 ├── src/
 │   ├── preprocess.py           # Data preprocessing scripts
@@ -118,6 +119,7 @@ rag-chatbot-development/
 │   └── evaluation.py           # Evaluation scripts
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
+```
 
 
 ## 🤝 Contributing
