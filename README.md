@@ -108,7 +108,7 @@ Evaluate the chatbot's performance using RAGAS.
     ```
     
 ## 📂 Project Structure
-rag-chatbot/
+rag-chatbot-development/
 ├── src/
 │ ├── preprocess.py # Data preprocessing scripts
 │ ├── storage.py # Database storage scripts
