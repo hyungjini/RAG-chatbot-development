@@ -110,13 +110,13 @@ Evaluate the chatbot's performance using RAGAS.
 ## 📂 Project Structure
 rag-chatbot-development/
 ├── src/
-│ ├── preprocess.py # Data preprocessing scripts
-│ ├── storage.py # Database storage scripts
-│ ├── retrieval.py # Retrieval logic
-│ ├── generation.py # Generation logic
-│ └── evaluation.py # Evaluation scripts 
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+│ ├── preprocess.py     # Data preprocessing scripts
+│ ├── storage.py        # Database storage scripts
+│ ├── retrieval.py      # Retrieval logic
+│ ├── generation.py     # Generation logic
+│ └── evaluation.py     # Evaluation scripts 
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps to contribute:
