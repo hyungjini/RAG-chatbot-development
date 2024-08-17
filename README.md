@@ -25,20 +25,14 @@ Over the past year, I had the exciting opportunity to develop a domain-specific 
 ## 🗂️ Data Preprocessing
 Data preprocessing is a crucial step to ensure the quality and relevance of the information fed into the chatbot. Follow these steps:
 
-1. **Load and clean your dataset**:
-    - Remove any irrelevant data.
-    - Normalize text (e.g., lowercasing, removing special characters).
-    
-    ```python
-    import pandas as pd
-    
-    data = pd.read_csv('data/raw_data.csv')
-    # Perform cleaning operations
-    ```
+1. **Make clean dataset**:
+    - Crawling
+    - PDF
+    - Text file
 
 2. **Tokenization and vectorization**:
     - Tokenize the text data.
-    - Convert tokens into vectors using embeddings (e.g., BERT, Word2Vec).
+    - Convert tokens into vectors using embeddings (e.g., Openai Embedding models,BERT).
     
     ```python
     from transformers import BertTokenizer, BertModel
