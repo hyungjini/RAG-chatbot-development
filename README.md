@@ -93,12 +93,9 @@ Evaluate the chatbot's performance using RAGAS.
     pip install ragas
     ```
 
-2. **Run evaluation**:
+2. 
     ```python
-    from ragas import evaluate
-    
-    results = evaluate(chatbot_responses, reference_responses)
-    print(results)
+   
     ```
     
 ## 📂 Project Structure
